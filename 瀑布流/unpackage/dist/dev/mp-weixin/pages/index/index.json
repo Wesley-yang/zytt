@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "瀑布流插件",
+  "usingComponents": {
+    "zyflow": "/components/zyflow/zyflow"
+  }
+}
